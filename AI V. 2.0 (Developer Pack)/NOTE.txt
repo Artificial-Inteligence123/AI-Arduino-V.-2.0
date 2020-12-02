@@ -1,0 +1,35 @@
+Welcome to the V. 2.0 of AI Arduino.
+
+Hello, user. I'm happy to say that the new version of the AI Arduino is released.
+
+The newer version is much faster , accurate , and can recognize your voice better as it uses 'Nural network' to recognize your voice better.
+
+This time we are creating a '.exe' file for the AI, so you need not to install python , dependencies except 1GB free space in your device.
+
+______________________________________________________________________________________________________________________________________________________________________
+
+For more visit -->  http://cmsplanes.ezyro.com
+______________________________________________________________________________________________________________________________________________________________________
+                                                                                                    SPECIFICATIONS
+
+Windows -->
+
+1. Above 'intel core i5' 8 gen (can run on intel core i5 8 gen also)
+
+2. Above windows XP
+
+3. Must have VS code installed from 'Microsoft store'.
+
+Mac OS -->
+
+I don't know , my brother don't allow me to use his Mac 😉
+Just kidding, above M1 and the latest version for smoother experience.
+
+Linux -->
+This AI was coded by 'Prasoon rai' on Ubuntu 20.4 LTS so, yeah any version of Linux except 'Linux mint'.
+Linux is the safest.
+_________________________________________________________________________________________________________________
+
+Features -->
+
+Find at your own. 🤣😅
